@@ -4,3 +4,6 @@ void func button() {
 	//some code;
 	//Day2 code
 }
+void some() {
+	
+}
